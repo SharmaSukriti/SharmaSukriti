@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sukriti Sharma</h1>
 <h3 align="center">A passionate software engineer enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhabch10&label=Profile%20views&color=0e75b6&style=flat" alt="anubhabch10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmasukriti&label=Profile%20views&color=0e75b6&style=flat" alt="sharmasukriti" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmasukriti&label=Profile%20views&color=0e75b6&style=flat" alt="sharmasukriti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmasukriti" alt="sharmasukriti" /></a> </p>
